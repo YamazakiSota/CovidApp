@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>08B7785F-EEBF-4DB8-9D70-0180952314F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08B7785F-EEBF-4DB8-9D70-0180952314F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CovidApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CovidApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CovidApp</string>
+			<key>timeStartedRecording</key>
+			<real>682179677.00961494</real>
+			<key>timeStoppedRecording</key>
+			<real>682179690.74656105</real>
+			<key>title</key>
+			<string>Build CovidApp</string>
+			<key>uniqueIdentifier</key>
+			<string>08B7785F-EEBF-4DB8-9D70-0180952314F2</string>
+		</dict>
+		<key>1FBA89F0-36AD-44AB-A1A1-BD52C611FA53</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1FBA89F0-36AD-44AB-A1A1-BD52C611FA53.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CovidApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CovidApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CovidApp</string>
+			<key>timeStartedRecording</key>
+			<real>682179437.08427095</real>
+			<key>timeStoppedRecording</key>
+			<real>682179465.41173506</real>
+			<key>title</key>
+			<string>Build CovidApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1FBA89F0-36AD-44AB-A1A1-BD52C611FA53</string>
+		</dict>
+		<key>3714DD6B-E7CB-4A12-8A79-AEB60B3DB6BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3714DD6B-E7CB-4A12-8A79-AEB60B3DB6BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CovidApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CovidApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CovidApp</string>
+			<key>timeStartedRecording</key>
+			<real>682183485.21386302</real>
+			<key>timeStoppedRecording</key>
+			<real>682183486.62110806</real>
+			<key>title</key>
+			<string>Build CovidApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3714DD6B-E7CB-4A12-8A79-AEB60B3DB6BD</string>
+		</dict>
+		<key>3B9AC860-317A-435B-8E26-0F849FBD7968</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B9AC860-317A-435B-8E26-0F849FBD7968.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CovidApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CovidApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CovidApp</string>
+			<key>timeStartedRecording</key>
+			<real>682183054.097489</real>
+			<key>timeStoppedRecording</key>
+			<real>682183055.35399103</real>
+			<key>title</key>
+			<string>Build CovidApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3B9AC860-317A-435B-8E26-0F849FBD7968</string>
+		</dict>
+		<key>58F54D52-D23D-4428-A220-1BA19654D705</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58F54D52-D23D-4428-A220-1BA19654D705.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CovidApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CovidApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CovidApp</string>
+			<key>timeStartedRecording</key>
+			<real>682182918.845783</real>
+			<key>timeStoppedRecording</key>
+			<real>682182920.44966197</real>
+			<key>title</key>
+			<string>Build CovidApp</string>
+			<key>uniqueIdentifier</key>
+			<string>58F54D52-D23D-4428-A220-1BA19654D705</string>
+		</dict>
+		<key>A382F769-A9EA-4559-8CB4-675339A0CFC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A382F769-A9EA-4559-8CB4-675339A0CFC9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CovidApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CovidApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CovidApp</string>
+			<key>timeStartedRecording</key>
+			<real>682181966.55796003</real>
+			<key>timeStoppedRecording</key>
+			<real>682181981.23208904</real>
+			<key>title</key>
+			<string>Build CovidApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A382F769-A9EA-4559-8CB4-675339A0CFC9</string>
+		</dict>
+		<key>FCB7E0DF-00EB-4397-B892-6BA61B0DAC21</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCB7E0DF-00EB-4397-B892-6BA61B0DAC21.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CovidApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CovidApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CovidApp</string>
+			<key>timeStartedRecording</key>
+			<real>682182261.18552101</real>
+			<key>timeStoppedRecording</key>
+			<real>682182262.72956204</real>
+			<key>title</key>
+			<string>Build CovidApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FCB7E0DF-00EB-4397-B892-6BA61B0DAC21</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

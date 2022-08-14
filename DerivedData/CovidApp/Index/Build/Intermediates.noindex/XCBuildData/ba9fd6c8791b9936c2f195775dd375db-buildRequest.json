@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "5759c49bae48341371c7da01e5cd90c81f4f4b066d4b0529b1ce6fa933402410"
+    }
+  ],
+  "containerPath" : "/Users/yamazakisota/CovidApp/CovidApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/yamazakisota/CovidApp/DerivedData/CovidApp/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/yamazakisota/CovidApp/DerivedData/CovidApp/Index/Build/Products",
+      "derivedDataPath" : "/Users/yamazakisota/CovidApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/yamazakisota/CovidApp/DerivedData/CovidApp/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yamazakisota/CovidApp/DerivedData/CovidApp/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/yamazakisota/CovidApp/DerivedData/CovidApp/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/yamazakisota/CovidApp/DerivedData/CovidApp/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

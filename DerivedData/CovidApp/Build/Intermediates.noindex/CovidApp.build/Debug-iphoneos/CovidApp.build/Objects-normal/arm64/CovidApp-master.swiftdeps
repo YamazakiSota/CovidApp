@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1660486641, 32984972]
+build_end_time: [1660486652, 454213142]
+inputs:
+  "/Users/yamazakisota/CovidApp/CovidApp/AppDelegate.swift": [1660485821, 297170877]
+  "/Users/yamazakisota/CovidApp/CovidApp/Colors.swift": [1660486637, 72274446]
+  "/Users/yamazakisota/CovidApp/CovidApp/SceneDelegate.swift": [1660485821, 308768749]
+  "/Users/yamazakisota/CovidApp/CovidApp/ViewController.swift": [1660486637, 27249097]
