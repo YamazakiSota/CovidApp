@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-CovidApp in CovidApp, no dependencies
-CovidApp in CovidApp, no dependencies

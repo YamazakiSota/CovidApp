@@ -59,6 +59,41 @@ class ViewController: UIViewController {
         let height = view.frame.size.height / 2
         setUpButton("健康管理", size: size, y: height + 190, color: colors.blue, parentView: view)
         setUpButton("県別状況", size: size, y: height + 240, color: colors.blue, parentView: view)
+        
+        setUpImageButton("bubble.left", x: view.frame.size.width - 60).addTarget(self, action: #selector(chatAction), for: .touchDown)
+        setUpImageButton("goforward", x: 20).addTarget(self, action: #selector(reloadAction), for: .touchDown)
+        
+        let imageView = UIImageView()
+        let image = UIImage(named: "virus")
+        imageView.image = image
+        imageView.frame = CGRect(x: view.frame.size.width, y: -65, width: 50, height: 50)
+        contentView.addSubview(imageView)
+        
+        UIView.animate(withDuration: 1.5, delay: 0.5, options: [.curveEaseIn], animations: {imageView.frame = CGRect(x: self.view.frame.size.width - 100, y: -65, width: 50, height: 50)
+            imageView.transform = CGAffineTransform(rotationAngle: -90)
+        }, completion: nil)
+        
+    }
+    
+    func setUpImageButton(_ name: String, x: CGFloat) -> UIButton{
+        let button = UIButton(type: .system)
+        button.setImage(UIImage(systemName: name), for: .normal)
+        button.frame.size = CGSize(width: 40, height: 40)
+        button.tintColor = .white
+        button.frame.origin = CGPoint(x: x, y: 50)
+        view.addSubview(button)
+        return button
+    }
+    
+    @objc func chatAction(){
+        print("タップchat")
+        
+    }
+    
+    @objc func reloadAction(){
+        loadView()
+        viewDidLoad()
+        print("タップreload")
     }
 
     func setUpButton(_ title: String, size: CGSize, y: CGFloat, color: UIColor, parentView: UIView){
