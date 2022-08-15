@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E427F0FF28AABA4F0073D80B /* Entity.swift in Sources */ = {isa = PBXBuildFile; fileRef = E427F0FE28AABA4F0073D80B /* Entity.swift */; };
+		E427F10128AABB070073D80B /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = E427F10028AABB070073D80B /* API.swift */; };
 		E4339C6B28A9383D0063F8B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4339C6A28A9383D0063F8B1 /* AppDelegate.swift */; };
 		E4339C6D28A9383D0063F8B1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4339C6C28A9383D0063F8B1 /* SceneDelegate.swift */; };
 		E4339C6F28A9383D0063F8B1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4339C6E28A9383D0063F8B1 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		E427F0FE28AABA4F0073D80B /* Entity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entity.swift; sourceTree = "<group>"; };
+		E427F10028AABB070073D80B /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 		E4339C6728A9383D0063F8B1 /* CovidApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CovidApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4339C6A28A9383D0063F8B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4339C6C28A9383D0063F8B1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				E4339C6C28A9383D0063F8B1 /* SceneDelegate.swift */,
 				E4339C6E28A9383D0063F8B1 /* ViewController.swift */,
 				E427F0FE28AABA4F0073D80B /* Entity.swift */,
+				E427F10028AABB070073D80B /* API.swift */,
 				E4339C7E28A9388A0063F8B1 /* Colors.swift */,
 				E4339C7028A9383D0063F8B1 /* Main.storyboard */,
 				E4339C7328A938420063F8B1 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 				E427F0FF28AABA4F0073D80B /* Entity.swift in Sources */,
 				E4339C7F28A9388A0063F8B1 /* Colors.swift in Sources */,
 				E4339C6B28A9383D0063F8B1 /* AppDelegate.swift in Sources */,
+				E427F10128AABB070073D80B /* API.swift in Sources */,
 				E4339C6D28A9383D0063F8B1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
